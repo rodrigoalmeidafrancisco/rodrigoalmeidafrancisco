@@ -1,4 +1,15 @@
-### Hi there 👋
+### Olá, seja bem vindo ao meu Repositório! 👋
+
+---
+#### Linkedin: https://www.linkedin.com/in/rodrigo-de-almeida-francisco/
+
+
+---
+ <div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoalmeidafrancisco&theme=dark)](https://github.com/rodrigoalmeidafrancisco/github-readme-stats)
+
+   </div>
 
 <!--
 **rodrigoalmeidafrancisco/rodrigoalmeidafrancisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
