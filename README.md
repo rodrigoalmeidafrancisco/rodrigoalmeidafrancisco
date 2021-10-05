@@ -1,4 +1,5 @@
 ### Olá, seja bem vindo ao meu Repositório! 👋
+### Meu nome é Rodrigo de Almeida Francisco e sou programador C# (Full Stack).
 
 ##
 
