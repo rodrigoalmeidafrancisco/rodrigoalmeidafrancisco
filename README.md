@@ -1,6 +1,15 @@
 ### Olá, seja bem vindo ao meu Repositório! 👋
 ### Meu nome é Rodrigo de Almeida Francisco e sou Desenvolvedor C# (Full Stack).
 
+***********************************************************************************************
+Com o fim previsto do GitHub, estarei migrando meus projetos para o DevOps da Microsoft, antes do fim do suporte do GitHub. <br/>
+Segue abaixo os Repositórios que estarão públicos.
+
+- Cursos: https://dev.azure.com/rodrigoalmeidafrancisco/Cursos
+- Pacotes Nugets: https://dev.azure.com/rodrigoalmeidafrancisco/Pacotes_Nugets
+- Outros: https://dev.azure.com/rodrigoalmeidafrancisco/Outros
+***********************************************************************************************
+
 ##
 
 <div align="center">
